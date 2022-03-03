@@ -1,0 +1,7 @@
+Pollutant,Source,Fuel Name,Year,Emission Factor,Units
+Carbon Dioxide as Carbon,Agriculture - stationary combustion,Fuel oil,2019,0.0215696163223077,kilotonne
+Carbon Dioxide as Carbon,Fishing vessels,Fuel oil,2019,0.0208400774221232,kilotonne
+Carbon Dioxide as Carbon,Shipping between UK and Gibraltar,Fuel oil,2019,0.0208400774221232,kilotonne
+Carbon Dioxide as Carbon,Shipping between UK and OTs (excl. Gib and Bermuda),Fuel oil,2019,0.0208400774221232,kilotonne
+Carbon Dioxide as Carbon,Shipping between UK and Bermuda,Fuel oil,2019,0.0208400774221232,kilotonne
+Carbon Dioxide as Carbon,Shipping between UK and CDs,Fuel oil,2019,0.0208400774221232,kilotonne
