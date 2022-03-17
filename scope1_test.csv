@@ -1,7 +1,0 @@
-Pollutant,Source,Fuel Name,Year,Emission Factor
-Carbon Dioxide as Carbon,Railways,Fuel oil,2019,0.021
-Methane,Aircraft,Fuel oil,2019,0.020
-Nitrous Oxide,Shipping,Fuel oil,2019,0.026
-Carbon Dioxide as Carbon,Road Transport,Fuel oil,2019,0.023
-Methane,Machinery,Fuel oil,2019,0.032
-Nitrous Oxide,Building Combustion,Fuel oil,2019,0.010
